@@ -1,0 +1,1000 @@
+{
+  "ShopByCategory": "زمرے کے لحاظ سے خریداری کریں",
+  "Account": "اکاؤنٹ",
+  "Login": "لاگ ان",
+  "Register": "رجسٹر",
+  "MyWishlist": "میری خواہشات کی فہرست",
+  "MyAddress": "میرا پتہ",
+  "MyOrders": "میرے احکام",
+  "Checkout": "اس کو دیکھو",
+  "Logout": "لاگ آوٹ",
+  "Settings": "ترتیبات",
+  "AboutUs": "ہمارے متعلق",
+  "TermsOfUse": "استعمال کرنے کی شرائط",
+  "CancellationPolicy": "منسوخ کرنے کی حکمت عملی",
+  "ReturnAndRefundPolicy": "پالیسی واپس جائیں اور رقم کی واپسی",
+  "DeliveryPolicy": "ڈلیوری کی پالیسی",
+  "PrivacyPolicy": "رازداری کی پالیسی",
+  "Cart": "ٹوکری",
+  "CartIsEmpty": "ٹوکری خالی ہے",
+  "ContinueShopping": "خریداری جاری",
+  "GiftCardPromo": "گفٹ کارڈ پرومو",
+  "Apply": "کا اطلاق کریں",
+  "PleaseWait": "برائے مہربانی انتظار کریں",
+  "BillingAddress": "بل کا پتہ",
+  "SelectBillingAddress": "منتخب بلنگ ایڈریس",
+  "UseBillingAddressForShipping": "شپنگ کے لئے بلنگ ایڈریس کا استعمال",
+  "AddNewAddress": "نئے پتے شامل کریں",
+  "Save": "محفوظ کریں",
+  "SavingAddress": "ایڈریس محفوظ کر رہا ہے",
+  "BillingAddressForm": "بلنگ ایڈریس فارم",
+  "FirstName": "پہلا نام",
+  "LastName": "آخری نام",
+  "Company": "کمپنی",
+  "Phone": "فون",
+  "Street 1": "سڑک 1",
+  "Street 2": "سٹریٹ 2",
+  "Email": "دوستوں کوارسال کریں",
+  "City": "شہر",
+  "Postcode": "پوسٹ کوڈ",
+  "Country": "ملک",
+  "State": "حالت",
+  "OrderReview": "حکم کا جائزہ لینے",
+  "Subtotal": "ذیلی کل",
+  "GrandTotal": "مجموعی عدد",
+  "Discount": "ڈسکاؤنٹ",
+  "PlaceOrder": "حکم صادر کریں",
+  "PlacingOrder": "رکھ آرڈر",
+  "ShippingAddress": "شپنگ ایڈریس",
+  "SelectShippingAddress": "منتخب شپنگ ایڈریس",
+  "ShippingAddressForm": "شپنگ ایڈریس فارم",
+  "ShippingAndPaymentMethod": "شپنگ & ادائیگی کا طریقہ",
+  "SelectShippingMethod": "شپنگ کا طریقہ منتخب کریں",
+  "SelectPaymentMethod": "منتخب ادائیگی کا طریقہ",
+  "Error": "خرابی",
+  "PleaseSelectShippingMethod": "براہ مہربانی منتخب کریں شپنگ کا طریقہ",
+  "PleaseSelectPaymentMethod": "ادائیگی کا طریقہ منتخب کیجیے",
+  "PleaseSelectPaymentCardType": "ادائیگی کارڈ کی قسم کا انتخاب کریں",
+  "PleaseEnterPaymentCardNumber": "ادائیگی کارڈ نمبر درج کریں",
+  "PleaseSelectPaymentExpirationMonth": "ادائیگی کا وقت ختم ہونے ماہ براہ مہربانی منتخب کریں",
+  "PleaseSelectPaymentExpirationYear": "ادائیگی کے اختتامی سال براہ مہربانی منتخب کریں",
+  "PleaseEnterNameOnCard": "کارڈ پر درج کریں نام",
+  "PleaseEnterPurchaseOrderNumber": "خریداری کے آرڈر نمبر درج کریں",
+  "ContinueShopping": "خریداری جاری",
+  "Home": "ہوم",
+  "Pulltorefresh": "تازہ کرنے کے لئے ھیںچو",
+  "Options": "اختیارات",
+  "Quantity": "یونٹ",
+  "Product": "مصنوعات",
+  "AddToWishlist": "خواہشات کی فہرست میں شامل کرنا",
+  "Description": "تفصیل",
+  "RelatedProducts": "متعلقہ مصنوعات",
+  "Add": "شامل کریں",
+  "ShowReviews": "جائزے ظاہر",
+  "WriteAReview": "تجزیہ لکھیں",
+  "Reviews": "جائزہ",
+  "NickName": "نک نام",
+  "SummaryOfyourReview": "آپ کے ریویو کا خلاصہ",
+  "Details": "تفصیلات دیکھیں",
+  "SubmitReview": "جائزہ پیش",
+  "BuyNow": "ابھی خریدئے",
+  "AddToCart": "ٹوکری میں شامل کریں",
+  "FiltersAreNotAvailable": "فلٹرز دستیاب نہیں ہیں",
+  "FiltersAreNotAvailable": "فلٹرز دستیاب نہیں ہیں",
+  "Clear": "صاف",
+  "Products": "مصنوعات",
+  "Categories": "اقسام",
+  "Edit": "تصیح",
+  "Delete": "حذف کریں",
+  "EditAddress": "ایڈریس ترمیم کریں",
+  "UseAsMyDefaultBillingAddress": "میرے ڈیفالٹ بلنگ ایڈریس کے طور پر استعمال کریں",
+  "UseAsMyDefaultShippingAddress": "میرا طے شدہ شپنگ ایڈریس کے طور پر استعمال کریں",
+  "SaveAddress": "ایڈریس کو محفوظ کریں",
+  "ForgotPassword": "پاسورڈ بھول گے",
+  "EnterYourEmail": "آپ کا ای میل درج کریں",
+  "ResetPasswordText": "میدان میں آپ کا رجسٹرڈ ای میل آئی ڈی میں ٹائپ کریں اور ہم آپ کو آپ کے پاس ورڈ ری سیٹ کرنے کے لئے اقدامات کے بھیج دیں گے",
+  "Username": "صارف کا نام",
+  "Password": "پاس ورڈ",
+  "NewAddress": "نیا ایڈریس",
+  "OdersDetails": "آرڈر کی تفصیلات",
+  "OrderNumber": "آرڈر نمبر",
+  "Orders": "احکامات",
+  "OrderDate": "آرڈر کی تاریخ",
+  "ShipTo": "پر جہاز",
+  "Status": "سٹیٹس",
+  "Totals": "کل",
+  "ViewDetails": "تفصیلات دیکھیں",
+  "RegisterAccount": "اکاؤنٹ رجسٹر",
+  "AccountInformation": "اکاؤنٹ کی معلومات",
+  "Subscribe": "سبسکرائب کریں",
+  "ConfirmPassword": "پاس ورڈ کی توثیق",
+  "Registering": "رجسٹر",
+  "Settings": "ترتیبات",
+  "English": "انگریزی",
+  "Hindi": "ہندی",
+  "Tamil": "تامل",
+  "kannada": "کناڈا",
+  "Telugu": "تیلگو",
+  "Urdu": "اردو",
+  "SelectLanguage": "زبان منتخب کریں"
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
